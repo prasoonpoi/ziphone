@@ -1,6 +1,6 @@
 #summary http://www.ziphone.org
 
-= ZiPhone =
+= http://www.ziphone.org =
 
 This page was intentionally left blank.
 
